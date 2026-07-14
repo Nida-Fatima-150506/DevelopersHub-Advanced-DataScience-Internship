@@ -9,7 +9,7 @@ Develop an interactive Business Intelligence dashboard for analyzing sales, prof
 - Global Superstore Dataset
 
 ## Approach
-
+ 
 - Loaded and explored the dataset
 - Cleaned duplicate records
 - Converted date columns
