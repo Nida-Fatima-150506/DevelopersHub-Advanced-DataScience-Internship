@@ -2,18 +2,19 @@
 
 ## Objective
 
-The objective of this project is to develop an interactive Business Intelligence dashboard using Streamlit to analyze sales performance, profitability, and customer insights.
+Develop an interactive Business Intelligence dashboard for analyzing sales, profit, and customer performance using the Global Superstore dataset.
 
 ## Dataset
 
-- **Dataset:** Global Superstore Dataset
-- **Source:** Kaggle
+- Global Superstore Dataset
 
 ## Approach
 
 - Loaded and explored the dataset
-- Cleaned the data and converted date columns
-- Calculated key business KPIs
+- Cleaned duplicate records
+- Converted date columns
+- Performed Exploratory Data Analysis (EDA)
+- Calculated Key Performance Indicators (KPIs)
 - Identified Top 5 Customers by Sales
 - Analyzed Sales by Region
 - Analyzed Profit by Category
@@ -21,22 +22,23 @@ The objective of this project is to develop an interactive Business Intelligence
 
 ## Dashboard Features
 
-- Interactive Region Filter
-- Interactive Category Filter
-- Interactive Sub-Category Filter
+- Region Filter
+- Category Filter
+- Sub-Category Filter
 - Total Sales KPI
 - Total Profit KPI
 - Total Orders KPI
 - Top 5 Customers by Sales
 - Sales by Region
 - Profit by Category
+- Dataset Preview
 
 ## Results
 
-- **Total Sales:** **12,642,905**
-- **Total Profit:** **1,467,457.29**
-- **Total Orders:** **25,035**
+- **Total Sales:** 12,642,905
+- **Total Profit:** 1,467,457.29
+- **Total Orders:** 25,035
 
 ## Conclusion
 
-The Streamlit dashboard provides an interactive and user-friendly interface for exploring business performance. It enables users to monitor sales, profitability, and customer trends, supporting informed business decisions through data visualization.
+This project demonstrates how Streamlit can be used to create interactive business dashboards for analyzing sales performance, profitability, and customer insights. The dashboard enables users to explore data dynamically and supports informed business decision-making.
